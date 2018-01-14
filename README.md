@@ -12,3 +12,5 @@ Thanks
 This is “For Educational Purposes Only”
 
 don't misuse This Tool
+
+i am not responsible for your actions
